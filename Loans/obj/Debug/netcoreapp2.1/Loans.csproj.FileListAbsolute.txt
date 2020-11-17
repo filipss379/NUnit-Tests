@@ -1,0 +1,8 @@
+D:\Kody\Nauka\PluralSight\Testing\NUnit\Loans\bin\Debug\netcoreapp2.1\Loans.deps.json
+D:\Kody\Nauka\PluralSight\Testing\NUnit\Loans\bin\Debug\netcoreapp2.1\Loans.dll
+D:\Kody\Nauka\PluralSight\Testing\NUnit\Loans\bin\Debug\netcoreapp2.1\Loans.pdb
+D:\Kody\Nauka\PluralSight\Testing\NUnit\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfoInputs.cache
+D:\Kody\Nauka\PluralSight\Testing\NUnit\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfo.cs
+D:\Kody\Nauka\PluralSight\Testing\NUnit\Loans\obj\Debug\netcoreapp2.1\Loans.csproj.CoreCompileInputs.cache
+D:\Kody\Nauka\PluralSight\Testing\NUnit\Loans\obj\Debug\netcoreapp2.1\Loans.dll
+D:\Kody\Nauka\PluralSight\Testing\NUnit\Loans\obj\Debug\netcoreapp2.1\Loans.pdb
